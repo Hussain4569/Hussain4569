@@ -10,7 +10,7 @@ A Software Engineering student at one of the leading computer science institutio
 ### My skills include
 - 💻 &nbsp; Python | Java | C
 - 📱  &nbsp; Flutter  | Firebase
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Node.js | Express.js | MongoDB
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJS | ExpressJS | MongoDB
 
    
 <br>
