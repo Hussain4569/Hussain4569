@@ -1,16 +1,16 @@
 ### Hi there 👋 I'm Hussain Mustafa,
 
-A Software Engineering student at one of the leading computer science institutions in Pakistan. I am passionate about learning how different kinds of software are developed, and how to develop them myself. I enjoy solving problems, debugging code, and writing code. 
+A Software Engineering student at one of the leading computer science institutions in Pakistan, and a part-time Junior Full-Stack Developer at Beyond Vision. I am passionate about learning how different kinds of software are developed, and how to develop them myself. I enjoy solving problems, debugging code, and writing code. 
 
 
-- 🔭 I’m currently looking for a software engineering internship
+- 🔭 I’m currently working as a full-stack developer.
 - :bulb: I'm interested in all things tech
-- 🌱 I’m currently learning about Machine learning
+- 🌱 I’m currently learning about DevOps
 
 ### My skills include
 - 💻 &nbsp; Python | Java | C
 - 📱  &nbsp; Flutter  | Firebase
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJS | ExpressJS | MongoDB
+- 🌐 &nbsp; HTML | CSS | JavaScript | AngularJS | ReactJS | NodeJS | ExpressJS | MongoDB | DotNet Core
 
    
 <br>
